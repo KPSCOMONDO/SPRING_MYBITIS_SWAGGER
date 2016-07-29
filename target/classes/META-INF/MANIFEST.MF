@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: KSP_CHANNY_SPRING_JDBC
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.spring.start
+Build-Jdk: 1.7.0_60-ea
+Built-By: kpsec15
+Created-By: Maven Integration for Eclipse
+
